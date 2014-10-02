@@ -12,10 +12,9 @@
    "revision":      "kitkat"
  },
  {
-   "remote":	"gh",
-   "repository": "AICP/kernel_lge_msm8974",
+   "repository": "kernel_lge_msm8974",
    "target_path": "kernel/lge/msm8974",
-   "revision":      "kitkat"
+   "revision":      "kk4.4"
  },
  {
    "remote":	"plain",
